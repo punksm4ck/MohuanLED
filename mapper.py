@@ -1,4 +1,5 @@
 "© 2026 Punksm4ck. All rights reserved."
+"© 2026 Punksm4ck. All rights reserved."
 import asyncio
 from bleak import BleakScanner, BleakClient
 
